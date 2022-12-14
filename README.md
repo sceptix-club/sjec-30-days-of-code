@@ -8,11 +8,11 @@ The Placement and Training Cell of St Joseph Engineering College, in association
 - Best video each week wins an Amazon voucher of <b>₹2000</b>.
 - An additional harder problem will be released every Saturday via Hackerrank.
 - Solving this problem yields an Amazon voucher of <b>₹3000</b>.
+- The top five students who consistently submit solutions to all of any weeks&#39; problems (regardless of video entry), win ₹200 each.
 
 ### There will be a mini-hackathon on day-30 for the SJEC students.
 
 ## ✨ Requirements
-- The top five students who consistently submit solutions to all of any weeks&#39; problems (regardless of video entry), win ₹200 each.
 - Only SJEC students in the first to third years can avail the prizes.
 - This event is open to all the engineering departments.
 - Having a GitHub account linked to your SJEC email address is a must (First year students are exempt from using an SJEC email).
