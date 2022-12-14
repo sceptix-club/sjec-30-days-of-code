@@ -20,7 +20,7 @@ The Placement and Training Cell of St Joseph Engineering College, in association
 # ✨ How to participate
 - Fork this repository and update the `paarticipant.md` file in the root of this repository.
 - Refer to this repository every day to find a new challenge.
-- Solve the problem in <b>any programming langauge you like</b>.
+- Solve the problem in <b>any programming language you like</b>.
 - Commit your code and push it to your fork in folder with a suitable name ("day-21/").
 - Maintain your fork by submitting all of the problems released over the thirty days.
 
