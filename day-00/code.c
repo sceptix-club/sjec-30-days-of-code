@@ -4,13 +4,14 @@ int main()
 {
     char name[100];
     printf("Enter Your Name;");
-    scanf("%[^\n]s",name);
+    fgets(name, sizeof(name), stdin);
+    puts(name);
 
-    if(strlen(name))
-    printf("HELLO, %s",name);
+    if(name[0]=='\n')
+    printf("HELLO, SJEC");
 
     else 
-    printf("HELLO, SJEC");
+    printf("HELLO, %s",name);
     return 0;
 
 }
