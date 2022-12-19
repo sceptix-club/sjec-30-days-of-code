@@ -37,6 +37,7 @@ Baz
 
 ### Input Constraints
 `a` < `b`
+
 1 <= `a, b` <= 10000
 
 ### Output Format
