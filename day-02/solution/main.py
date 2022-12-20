@@ -1,7 +1,7 @@
 n = int(input())
 
-output = ''
+output = ""
 for i in range(n):
-    list = sorted(map(int, input().split()))
-    output += f"{list[i % 3]}\n"
+    triangle = sorted(map(int, input().split()))
+    output += f"{triangle[i % 3]}\n"
 print(output)
