@@ -36,6 +36,8 @@ Baz
 - 11 is odd, hence "Baz"
 
 ### Input Constraints
+`a` < `b`
+
 1 <= `a, b` <= 10000
 
 ### Output Format
