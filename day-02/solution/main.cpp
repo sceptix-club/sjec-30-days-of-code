@@ -15,13 +15,7 @@ auto main() -> int {
         for (auto &side : triangle) std::cin >> side;
         std::sort(triangle.begin(), triangle.end());
 
-        if (i % 3 == 0) {
-            sout << triangle.front() << '\n';
-        } else if (i % 3 == 1) {
-            sout << triangle.at(1) << '\n';
-        } else {
-            sout << triangle.back() << '\n';
-        }
+        sout << triangle.at(i % 3) << '\n';
 
     }
     std::cout << sout.str();
