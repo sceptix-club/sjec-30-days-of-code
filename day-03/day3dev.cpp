@@ -2,7 +2,8 @@
 
 using namespace std;
 int main(){
-    int a[50],i,n,sum=0,avg;
+    int a[50],i,n,sum=0;
+    float avg;
     cout<<"Enter the number of terms"<<endl;
     cin>>n;                                             //Number of terms of array from user
     cout<<"Enter the numbers"<<endl;
