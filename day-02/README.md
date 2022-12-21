@@ -32,7 +32,7 @@ Followed by `n` lines of **three** space separated integers that present the thr
 4
 211
 12
-445
+555
 ```
 
 ### Output Format
@@ -43,4 +43,4 @@ Followed by `n` lines of **three** space separated integers that present the thr
 - For the second triangle, out of `3, 4, and 6`, the medium (neither largest nor smallest) side is 4.
 - For the third triangle, out of `114, 114, and 221`, the largest side is 221.
 - For the fourth triangle, out of `12, 16, and 25`, the smallest is 12.
-- For the fifth triangle, out of `555, 999, and 445`, the medium side is 445.
+- For the fifth triangle, out of `555, 999, and 445`, the medium side is 555.
