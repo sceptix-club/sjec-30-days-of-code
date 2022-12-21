@@ -17,7 +17,7 @@ for(n=0;n<=t-1;n++)
  if(n==q)
                 {
     q=q+3;
- if(a[n] < b[n] && a[n] < c[n]) /*add the conditions so that it will print smallest if its b or c */
+ if(a[n] < b[n] && a[n] < c[n]) 
  printf("\n %d is smallest",a[n]);
 
  else if (b[n] < a[n] && b[n] < c[n]) 
