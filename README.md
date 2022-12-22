@@ -18,7 +18,7 @@ The Placement and Training Cell of St Joseph Engineering College, in association
 - Having a GitHub account linked to your SJEC email address is a must (First year students are exempt from using an SJEC email).
 
 # ✨ How to participate
-- Fork this repository and update the `paarticipant.md` file in the root of this repository.
+- Fork this repository and update the `participant.md` file in the root of this repository.
 - Refer to this repository every day to find a new challenge.
 - Solve the problem in <b>any programming language you like</b>.
 - Commit your code and push it to your fork in a folder with a suitable name ("day-21/").
