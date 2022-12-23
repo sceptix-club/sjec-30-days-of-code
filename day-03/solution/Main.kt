@@ -8,5 +8,5 @@ fun main() {
     numbers
         .filter { it > average }
         .forEach { print("$it ") }
-        .run { println() }
+    println()
 }
