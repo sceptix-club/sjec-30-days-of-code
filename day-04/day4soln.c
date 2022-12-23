@@ -7,9 +7,9 @@ int main()
     scanf("%d%d",&m,&n);
 
     if((m*n)%6==0)
-    printf("\nYes");
+    printf("\nYes,Perfectly Filled Grid");
     else
-    printf("\nNo");
+    printf("\nNo,Imperfectly Filled Grid");
 
     return 0;
 
