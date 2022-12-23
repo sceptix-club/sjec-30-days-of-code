@@ -17,7 +17,8 @@ int main()
             for(i=0;i<ele;i++)
                 {
                     if(a[i]>avg)
-                        cout<<setw(4)<<a[i];
+                        cout<<a[i]<<setw(3);
                 }
         return(0);
     }
+    
