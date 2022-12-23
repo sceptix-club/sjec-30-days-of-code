@@ -5,7 +5,7 @@ void main()
     scanf("%d",&m);
     scanf("%d",&n);
     product=m*n;
-    if(product%3==0 && product!=3)
+    if(product%6==0 && (m!=1 && n!=1))
     {
         printf("Yes\n");
     }
