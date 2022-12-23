@@ -28,7 +28,7 @@ int main(void) {
             max = (a > b) ? a : b;
         }
 
-        // Print the side according to the specified order
+        // Print the sides according to the specified order
         if (i % 3 == 0) {
             printf("Triangle %d: %d\n", i + 1, min);
         } else if (i % 3 == 1) {
