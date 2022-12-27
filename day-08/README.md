@@ -37,6 +37,7 @@ and that's all.
 
 ## Sample Output 2
 ```
+5 - 7 : 1
 7 - 11 : 3
 11 - 13 : 1
 13 - 17 : 3
