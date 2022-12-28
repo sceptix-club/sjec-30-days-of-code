@@ -6,6 +6,8 @@ int main()
     printf("Enter the width of the diamond : \n");
     scanf("%d",&n);
     
+ if(1<=n && n<=200)
+ {
     for(i=0;i<=n;i++)
     {
         for(s=1;s<=n-i;s++)
@@ -34,6 +36,10 @@ int main()
         printf("\n");
     } //bottom half
 
-    
+ }
+
+  else
+  printf("Please Check if Input is in the range of 1-200");
+
     return 0;
 }
