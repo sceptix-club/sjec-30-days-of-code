@@ -5,7 +5,7 @@ int main()
 
     char name[200];
     printf("Name:");
-    scanf("%[^\n]s",name);
+    scanf("%[^o\n]s",name);
 
     if(strlen(name))
         printf("Hello, %s !",name);
