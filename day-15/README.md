@@ -51,7 +51,7 @@ Any missing place (represented by a zero in the place-value equivalent) is omitt
 - 2736
 
 ### Input Format
-A string `s` in representing a number in Roman numerals.
+A string `s` representing a number in Roman numerals.
 Make sure your code works on both uppercase and lowercase strings.
 
 ### Output Format
