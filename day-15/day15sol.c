@@ -77,14 +77,6 @@ int main()
                  return 0;
              }
          }
-         else
-         {
-            if(val(roman[i])<val(roman[i+1]))
-             {
-                 printf("wrong roman number");
-                 return 0;
-             }
-         }
          if(val(roman[i])>=val(roman[i+1]))
              n=n+val(roman[i]);
          else
