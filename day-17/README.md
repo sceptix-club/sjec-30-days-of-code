@@ -29,7 +29,7 @@ Followed by `n` lines of integer separated by a whitespace.
 ```
 1 4 6 6 3 4 2 2 2 8 0 4 2 4 6 6 1 1 1 1 3 
 ```
-Out of the 21 frames given, the third frame is the same as the fourth frame. Since no two consecutive frames are to be the same, we can eliminate one of the 6s. Same goes for the seventh, eighth, and ninth frames. They're all '9'. We can eliminate two copies and retain only one '9'. We keep doing this until no two frames that are next to one another, are the same.
+Out of the 21 frames given, the third frame is the same as the fourth frame. Since no two consecutive frames are to be the same, we can eliminate one of the 6s. Same goes for the seventh, eighth, and ninth frames. They're all '2'. We can eliminate two copies and retain only one '2'. We keep doing this until no two frames that are next to one another, are the same.
 
 ### Output Format
 `m` space separated integers. 
