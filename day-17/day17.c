@@ -21,7 +21,6 @@ for(i=1; i<n; i++)
     }
 }
 
-printf("\nMinimum number of frames needed: %d", count);
 
 free(a); //freeing dynamically allocated memory
 
