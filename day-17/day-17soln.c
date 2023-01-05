@@ -6,6 +6,7 @@ int main()
    scanf("%d",&n);
    int f[n];
    
+   printf("Enter frames: \n");
    for(i=0;i<=n-1;i++)
    scanf("%d",&f[i]);
 
