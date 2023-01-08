@@ -2,7 +2,7 @@
 
 A video is generally made up of a sequence of images called frames. Given `n` number frames, calculate and print all of the minimum number of frames needed to be sent without losing any video quality.
 
-If two __**consecutive**__ frames are the same, you may eliminate all copies of it such that only one remains.\
+If two __**consecutive**__ frames are the same, you may eliminate all copies of it such that only one remains.
 - **Preferred Language(s): C, C++**
 - **No external libraries are to be used.**
 
