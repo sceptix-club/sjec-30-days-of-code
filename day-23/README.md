@@ -2,6 +2,7 @@
 
 For this challenge, write a program that keeps adding the reverse of a number back to itself until it forms a palindrome. Once obtained, print the palindrome.
 - **Preferred Language(s): Python**
+
 __Note: There are certain cases where the number never reaches a palindrome. In order to ensure successful execution of your program, limit the number of additions to 500.__
 
 ## Sample Input 0
