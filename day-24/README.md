@@ -5,7 +5,7 @@ For this challenge, write a program that enciphers text by replacing all occuren
 For all 26 letters of the English alphabet, assign each letter a randomly chosen different letter.
 
 **For example**,
-A might be substituted for N
+A might be substituted for N,
 B might be substiutued for J
 ...
 
