@@ -11,26 +11,36 @@
 
 int main()
 {
-    int i,j,k;
+    int i,j,k,check,space;
     char sen[1000];
     printf("Enter your sentence : \n");
-    scanf("%s",sen);
+   scanf("%[^\n]s", sen);
     i=strlen(sen);
     char temp1[i];
 
     for(j=0;j<=i-1;j++)
-    {
+    {   
+        space=isspace(sen[j]);
+        if(space==0)
+        {
         sen[j]=toupper(sen[j]);
+        check=1;
         for(k=0;k<26;k++)
         {
             if(sen[j]==letters[k][0])
             {
                 temp1[j]=letters[k][1];
+                check=0;
+                break;
             }
         }
+        if(check==1)
+            temp1[j]=sen[j];
+        }
+        else
+        temp1[j]=' ';
     }
-    for(j=0;j<=i-1;j++)
-    printf("%c",temp1[j]);
+    printf("%s",temp1);
 
     return 0;
 }
