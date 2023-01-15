@@ -20,6 +20,7 @@ char getMaxOccurringChar(char* str)
             if (max < count[str[i]]) {
                 max = count[str[i]];
                 result = str[i];
+                count[str[i]]=0;
             }
             }
           freq=(max/len)*100; 
