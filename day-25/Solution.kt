@@ -29,10 +29,10 @@ fun main() {
         .sortedByDescending { it.second }
         .toMap()
 
-    val substitutionMapping = (cipherLetterFrequencies.keys zip standardLetterFrequencies.keys)
-        .toMap()
+    val substitutionMapping = (cipherLetterFrequencies.keys zip standardLetterFrequencies.keys).toMap()
     val decipheredText = cipherText
         .map { substitutionMapping[it] ?: substitutionMapping[it.uppercaseChar()]?.lowercaseChar() ?: it }
         .joinToString("")
 
     println(decipheredText)
+}
