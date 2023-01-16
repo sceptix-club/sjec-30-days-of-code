@@ -1,5 +1,5 @@
 # Beep Boop Beep
-Given text in the english language, encode it into [morse code.](https://en.wikipedia.org/wiki/Morse_code).
+Given text in the english language, encode it into [morse code.](https://en.wikipedia.org/wiki/Morse_code)
 
 Use appropriate spaces between characters. Words must be delimited with a '/' (forward slash).
 
