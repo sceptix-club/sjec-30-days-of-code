@@ -41,7 +41,6 @@ int main()
     
     for(i=0;i<s.length();i++)
         {   
-            s[i] = toupper(s[i]);
             n1=val(s[i]);
             n2=val(s[i+1]);
             if(n1>=n2)
