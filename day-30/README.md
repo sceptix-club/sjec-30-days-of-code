@@ -34,8 +34,8 @@ The 7th term in this sequence is 7.
 
 ## Sample Input 2
 ```
-5
 10
+5
 ```
 
 ## Sample Output 2
