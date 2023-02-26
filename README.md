@@ -1,6 +1,31 @@
 # SJEC 30 Days Of Coding Challenge
 The Placement and Training Cell of St Joseph Engineering College, in association with The sceptix club, brings its premiere <b>30-days-of-code</b> challenge. This event takes place from <b>19 December 2022 to 17 January 2023</b>.
 
+## ✨ Winners
+1. #### Week 1
+- Best Video Submission: [Anish Shobith PS](https://github.com/Anish-Shobith)
+- Best Hackerrank Solution: [Jerome Joseph](https://github.com/JeromeJoseph065)
+
+2. #### Week 2
+- Best Video Submission: [Shawn Monteiro](https://github.com/shawnmont772004)
+- Best Hackerrank Solution: [Abhinav C Yadav](https://github.com/abhi-abhinav)
+
+3. #### Week 3
+- Best Video Submission: [Joshua Quinthino Albuquerque](https://github.com/JOSHUA5227)
+- Best Hackerrank Solution: [Muhammed Saheed](https://github.com/MainKt)
+
+4. #### Week 4
+- Best Video Submission: [Devananda M Prabhu](https://github.com/devprabhu18)
+- Best Hackerrank Solution: [Amisha Anada Gowda](https://github.com/Amisha-Ananda-Gowda)
+
+## ✨ Consistent Participants
+- [Deric Jojo](https://github.com/JackitudilinksG)
+- [Deepak](https://github.com/deepakd28)
+- [Sabrina Hehar](https://github.com/heharsabrina)
+- [Pranavv Raja C P](https://github.com/pranavvraja)
+- [Sanjana Bhat](https://github.com/sanju2728)
+- [Adwaith Sajeev C](https://github.com/adwxith)
+
 ## ✨ Event Format
 - A new coding problem along with relevant material will be released on GitHub from Monday to Thursday at 10:00 PM.
 - You are required to maintain a fork of this GitHub repository with your solutions.
